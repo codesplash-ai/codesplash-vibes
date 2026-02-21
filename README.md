@@ -5,7 +5,7 @@
 
 # CodeSplash
 
-**AI Coding Platfoarm**
+**AI Coding Platform**
 
 [![Version](https://img.shields.io/github/v/release/codesplash-ai/codesplash?label=version&color=blue)](https://github.com/codesplash-ai/codesplash/releases)
 [![macOS](https://img.shields.io/badge/macOS-Apple%20Silicon-999999?logo=apple)](https://github.com/codesplash-ai/codesplash/releases/latest/download/codesplash-ai-darwin-arm64.zip)
